@@ -12,7 +12,8 @@ This repository contains my personal solutions to these problems, automatically 
 
 ## Repository structure
 
-- **Linear Algebra/** – Numbered solution files only (e.g. `1.Implement_dot_product.py` through `7.Matrix_trace.py`), each with full implementation code.
-- **Probability&Statistics/** – Solution files with full implementations.
+- **Linear Algebra/** – Numbered solution files (e.g. `1.Implement_dot_product.py` through `7.Matrix_trace.py`), each with full implementation code.
+- **Probability&Statistics/** – Solutions for Bernoulli, Binomial PMF, expected value, geometric probability, mean/median/mode, percentiles & quantiles, sample variance & standard deviation.
+- **Data Processing/** – Solutions for Binning, LogTransform, Matrix Normalization, Min–Max Normalization, Remove Stopwords, Text Chunking, Z-score standardization.
 
 Do not add duplicate or placeholder-only files (e.g. unnumbered `implement_*.py` stubs with only comments); they create confusion and are not accepted.
